@@ -1,0 +1,7 @@
+com\mercury\tours\util\BrowserFactory.class
+com\mercury\tours\util\Utility.class
+com\mercury\tours\pages\SwagLabsLoginPage.class
+com\mercury\tours\util\ExcelReader.class
+com\mercury\tours\datadriven\TestdataUtil.class
+com\mercury\tours\base\BaseClass.class
+com\mercury\tours\pages\MercuryToursRegisterPage.class
